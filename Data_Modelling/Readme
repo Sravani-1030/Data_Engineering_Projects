@@ -5,4 +5,8 @@ Skills Used:
 2. SQL
 
 
+Commands used on PSQL :
+/dt : to display tables craeted
+SELECT * FROM table_name : To get data from the tables
+
 
