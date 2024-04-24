@@ -1,0 +1,26 @@
+Project Title : DVD Rental Data Warehouse
+
+
+This project is about creating a Data Warehouse using Postgresql and DVD rental dataset from Tutorial(https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/)
+and learning how Data Warehouse is important for OLAP process.
+The goal of this project is to determine which film DVD has got high revenue and in which city it happened.
+
+Resources used:
+1. Postgresql & its user interface PgAdmin
+2. DVD rental Dataset
+
+Process followed:
+1. Install the Postgresql and PgAdmin. (PgAdmin is preferred instead of PSQL for better user experience.)
+2. Create a Database and upload raw data from DVD rental dataset.
+3. Draw the schema using any tool eg : Draw.io providing Dimension tables and fact tables
+4. Based on the diagram create the dimension tables and fact tables in pgAdmin using SQL .
+5. Load the data into the created tables.
+6. Retrieve the required performance factor using Fact Tables.
+
+
+Output Analysis:
+Time taken to determine which film DVD has got high revenue and in which city it happened using Datawarehouse= 189ms(Approx)
+
+Time taken to determine which film DVD has got high revenue and in which city it happened using Database = 321 ms(Approx)
+                                        
+                                        
