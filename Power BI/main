@@ -1,0 +1,6 @@
+This project is done with reference to the youtube.
+The project is about creating Power BI report and alongside we analyse the Values using SQL query as well.
+I have used tools called Postgresql, Power BI and used sqlalchemy to import the data into postgresql server.
+
+In Power BI report we have used different types of graphs like Bar charts, Funnel charts, Donut Charts, line charts and came to know about different properties like styling, layout, callout values, Reference Labels, Images etc.
+Also applied slicer in different way, and came to know about dropdown settings and relative time features.
